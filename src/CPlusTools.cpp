@@ -17,6 +17,7 @@ int main() {
 //	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 
 	MyDictionary myd;
+
 	myd.primary();
 
 //	FileOperation fo;
