@@ -18,6 +18,7 @@ int main() {
 
 	MyDictionary myd;
 
+
 	myd.primary();
 
 //	FileOperation fo;
